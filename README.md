@@ -57,7 +57,7 @@ Explains the difference between:
 
 ```bash
 OOPS/
-├── ClassAndObject.py
+├── classandObjects.py
 ├── MagicMethods.py
 ├── StaticVsClassMethod.py
 ├── Encapsulation.py
