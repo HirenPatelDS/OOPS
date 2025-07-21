@@ -3,7 +3,7 @@ class SelfExplain:
     A class to demonstrate how 'self' points to the object itself.
     """
 
-    def __init__(self):
+    def __init__(self): # 'self.name' belongs to the object
         """
         Called when a new SelfExplain object is created.
         Prints the memory address of 'self'.
